@@ -132,7 +132,7 @@ node index.js
 
 ![Landing Page Screenshot](screenshot.png)
 
-> _screenshot.png_ should is a capture of my browser with the live site rendered.
+> _screenshot.png_  is a capture of my browser with the live site rendered.
 
 ---
 
