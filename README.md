@@ -23,10 +23,14 @@ This project is a fully responsive, dynamic landing page created to demonstrate 
 - Chose **Ubuntu Server 22.04 LTS**
 - Opened ports 22 (SSH), 80 (HTTP), 443 (HTTPS)
 
-### 2. **Install Required Packages**
+### 2. **Connect to the Server**
+```bash
+ssh -i website-key.pem ec2-user@16.170.249.18
+
+### 3. **Install Required Packages**
 ```bash
 sudo yum update
-sudo yum install nginx nodejs npm certbot python3-certbot-nginx ufw -y
+sudo yum install nginx nodejs npm certbot python3-certbot-nginx
 ```
 
 ---
@@ -109,13 +113,6 @@ app.listen(3000, () => {
 });
 ```
 
-3. Run the app:
-
-```bash
-node index.js
-```
-
----
 
 ## 🧠 Additional Details
 
