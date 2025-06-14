@@ -26,6 +26,7 @@ This project is a fully responsive, dynamic landing page created to demonstrate 
 ### 2. **Connect to the Server**
 ```bash
 ssh -i website-key.pem ec2-user@16.170.249.18
+```
 
 ### 3. **Install Required Packages**
 ```bash
@@ -127,11 +128,11 @@ app.listen(3000, () => {
 
 ![Landing Page Screenshot](screenshot.png)
 
-> _screenshot.png_  is a capture of my browser with the live site rendered.
+> _screenshot.png_  screenshot of browser with the live site rendered.
 
 ---
 
-## 👨🏾‍💻 Author
+## Student
 
 **Praise Sunday**  
 Cloud Engineering Student at AltSchool Africa  
