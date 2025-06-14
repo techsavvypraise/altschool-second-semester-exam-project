@@ -3,8 +3,6 @@
 
 Live Demo: [https://praisedevops.duckdns.org](https://praisedevops.duckdns.org)
 
-![screenshot](./screenshot.png)
-
 ## 📌 Project Overview
 
 This project is a fully responsive, dynamic landing page created to demonstrate modern cloud engineering skills using real-world tools like Nginx, Node.js, TailwindCSS, and Certbot SSL. The page showcases my professional profile and a bold vision for a cloud-powered Africa.
