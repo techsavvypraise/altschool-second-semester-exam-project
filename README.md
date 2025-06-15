@@ -25,7 +25,7 @@ This project is a fully responsive, dynamic landing page created to demonstrate 
 
 ### 2. **Connect to the Server**
 ```bash
-ssh -i website-key.pem ec2-user@16.170.249.18
+ssh -i website-key.pem ec2-user@16.170.249.185
 ```
 
 ### 3. **Install Required Packages**
